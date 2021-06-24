@@ -10,7 +10,7 @@ from matplotlib import pyplot as plt
 # not needed, only to prettify the plots.
 import matplotlib
 from IPython.display import set_matplotlib_formats
-%matplotlib inline
+#%matplotlib inline
 
 # ploting setup
 plt.style.use(['seaborn-white', 'seaborn-paper'])
